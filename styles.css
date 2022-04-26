@@ -1,0 +1,61 @@
+body {
+    color: White;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+
+img {
+    height: 350px;
+    width: 300px;
+    border: solid 6px;
+}
+
+h1 {
+    font-size: 50px;
+}
+.start {
+    font-size: 50px;
+    background-color: #913F3F;
+    font-weight: 800;
+    padding: 20px;
+    
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+.Part-two-yes {
+    font-size: 50px;
+    font-weight: 800;
+    background-color:#A83D3D;
+}
+
+
+ .Part-two-no{
+    font-size: 50px;
+    background-color: #F9FCB5;
+    font-weight: 800;
+    padding: 20px;
+     color: black;
+}
+
+
+.Ending-yes {
+    font-size: 50px;
+    font-weight: 800;
+    background-color: #00A7C5;
+}
+
+.lastImage{
+    width:350px;
+}
+
+h1 {
+    border: dashed white 4px;
+    padding: 5px;
+}
+
+
+    
